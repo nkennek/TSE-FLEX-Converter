@@ -8,6 +8,7 @@ import lombok.Getter;
 @Getter
 public enum MessageType {
 
+    ST("ST", "Status Update"),
     NO("NO", "Update No"),
     CP("1P", "Current Price"),
     VL("VL", "Trading Volume"),
