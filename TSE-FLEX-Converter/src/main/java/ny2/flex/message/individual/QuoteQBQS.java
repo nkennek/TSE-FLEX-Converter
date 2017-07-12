@@ -37,31 +37,31 @@ public class QuoteQBQS extends Message {
     private static final int LENGTH_QO_TIME = 9;
 
     // Quote Flag
-    private static final int INDEX_QO_QUOTE_FLAG = 30;
+    private static final int INDEX_QO_QUOTE_FLAG = 33;
     private static final int LENGTH_QO_QUOTE_FLAG = 1;
 
     // Matching Flag
-    private static final int INDEX_QO_MATCHING_FLAG = 31;
+    private static final int INDEX_QO_MATCHING_FLAG = 34;
     private static final int LENGTH_QO_MATCHING_FLAG = 1;
 
     // Trading Volume Flag
-    private static final int INDEX_QO_QUOTE_VOLUME_FLAG = 32;
+    private static final int INDEX_QO_QUOTE_VOLUME_FLAG = 35;
     private static final int LENGTH_QO_QUOTE_VOLUME_FLAG = 1;
 
     // Quantity
-    private static final int INDEX_QO_QUANTITY = 33;
+    private static final int INDEX_QO_QUANTITY = 36;
     private static final int LENGTH_QO_QUANTITY = 14;
 
     // Trading Volume Flag
-    private static final int INDEX_QO_ORDER_VOLUME_FLAG = 48;
+    private static final int INDEX_QO_ORDER_VOLUME_FLAG = 51;
     private static final int LENGTH_QO_ORDER_VOLUME_FLAG = 1;
 
     // Number of Orders
-    private static final int INDEX_QO_NUMBER_ORDERS = 49;
+    private static final int INDEX_QO_NUMBER_ORDERS = 52;
     private static final int LENGTH_QO_NUMBER_ORDERS = 14;
 
     // Middle of Book Flag
-    private static final int INDEX_QO_MIDDLE_FLAG = 64;
+    private static final int INDEX_QO_MIDDLE_FLAG = 67;
     private static final int LENGTH_QO_MIDDLE_FLAG = 1;
 
     // //////////////////////////////////////

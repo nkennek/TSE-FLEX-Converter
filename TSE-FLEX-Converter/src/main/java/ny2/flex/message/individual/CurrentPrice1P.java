@@ -43,15 +43,15 @@ public class CurrentPrice1P extends Message {
     private static final int LENGTH_1P_TIME = 9;
 
     // Change Flag
-    private static final int INDEX_1P_CHANGE = 29;
+    private static final int INDEX_1P_CHANGE = 32;
     private static final int LENGTH_1P_CHANGE = 1;
 
     // State Flag
-    private static final int INDEX_1P_STATE = 30;
+    private static final int INDEX_1P_STATE = 33;
     private static final int LENGTH_1P_STATE = 2;
 
     // Closing Price Input
-    private static final int INDEX_1P_CLOSING = 32;
+    private static final int INDEX_1P_CLOSING = 35;
     private static final int LENGTH_1P_CLOSING = 1;
 
     // //////////////////////////////////////
